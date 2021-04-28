@@ -41,11 +41,18 @@ export const globalStyles = StyleSheet.create({
     },
     buttonContainer: {
         paddingBottom: 30,
-        padding: 10,
+        padding: 5,
     },
-
     calcButtonRow: {
         flexDirection: 'row',
-        justifyContent: 'space-between'
+        justifyContent: 'space-between',
+    },
+    calcButtonNull: {
+        flexDirection: 'row',
+        justifyContent: 'space-between',
+        flex: 2,
+        textAlign: 'left',
+        paddingLeft: 20,
     }
+
 });

@@ -2,7 +2,7 @@ import React from 'react';
 import { StyleSheet, View, Text, TouchableOpacity } from 'react-native';
 import { globalStyles } from '../styles/global'
 
-export default class CalcButton extends React.Component {
+export default class Button extends React.Component {
 
     static defaultProps = {
         onPress: function () { },
