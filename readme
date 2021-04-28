@@ -1,0 +1,6 @@
+This is a basic calculator using the swissCalc https://github.com/ericmorgan1/swisscalc-lib javascript library as a base.
+
+Install using npm install and expo start. 
+
+No other packages necessary. 
+
